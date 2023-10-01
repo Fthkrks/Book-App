@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+    @apply bg-[#1d1d1d]
+}  
+
+
+
+
+body.light-mode{
+    @apply bg-slate-200
+}
+
+
+
+
